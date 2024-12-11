@@ -1,0 +1,18 @@
+.dice {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#dice-image {
+    width: 200px;
+}
+
+#roll-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+}
